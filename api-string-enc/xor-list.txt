@@ -1,0 +1,10 @@
+kernel32.dll
+user32.dll
+CreateToolhelp32Snapshot
+Process32First
+Process32Next
+OpenProcess
+VirtualAllocEx
+WriteProcessMemory
+VirtualProtectEx
+CreateRemoteThread

@@ -1,4 +1,4 @@
-Project code files for my writeup [Malware Development and Reverse Engineering Analysis Part 1](https://0xect0.github.io/2024-08-30-maldev-re-p1/)!
+Project code files for my writeup [Malware Development and Reverse Engineering Analysis Part 1](https://0xecto.github.io/2024-08-30-maldev-re-p1/)!
 
 Payload is a CreateProcess() shellcode to start calc.exe.
 
